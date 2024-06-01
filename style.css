@@ -6,6 +6,7 @@ html {
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background-image: url(fish.jpg);
+  background-position: center;
   background-size: cover;
   margin: 0;
   overflow: hidden;
