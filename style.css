@@ -1,0 +1,33 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #f0f0f0;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  overflow: hidden;
+}
+
+.heading {
+  font-size: 1.5em;
+  color: #fff;
+}
+
+.description {
+  font-size: 0.95em;
+  color: #999a9e;
+}
+
+.container {
+  background: #32323b;
+  border-radius: 10px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 250px;
+  padding: 40px 60px;
+  box-shadow: 1px 1px 20px #171717;
+}
