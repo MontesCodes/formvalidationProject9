@@ -31,3 +31,34 @@ body {
   padding: 40px 60px;
   box-shadow: 1px 1px 20px #171717;
 }
+
+.input-group {
+  width: 100%;
+  margin: 20px 0;
+}
+
+input {
+  text-indent: 15px;
+  width: 100%;
+  border-radius: 5px;
+  background: #1d1e22;
+  color: #fff;
+  padding: 10px 0;
+}
+
+.submit-button {
+  border: none;
+  width: 100%;
+  border-radius: 5px;
+  padding: 12px 0;
+  font-size: 14px;
+  background: #5168f4;
+  text-align: center;
+  transition: background 500ms ease;
+  color: #fff;
+}
+
+.submit-button:hover {
+  cursor: pointer;
+  background: #f4b651;
+}
